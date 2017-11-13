@@ -155,3 +155,63 @@ h1 {
 .works img:last-child {
     float: right;
 }
+
+
+
+.about_us {
+    font-size: 14px;
+    margin-top: 80px;
+}
+
+
+
+.about_us_item {
+    width: 515px;
+    margin: 0 44px 90px 44px;
+}
+
+.about_us_item:nth-child(2n) {
+    float: right;
+}
+
+.about_us_item:nth-child(2n+1) {
+    float: left;
+}
+
+.about_us_item p {
+    font-size: 14px;
+    color: #777777;
+    line-height: 1.55em;
+}
+
+.about_us h3 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.about_us_item span h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.floatL {
+    float: left;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.floatR {
+    float: right;
+    text-align: left;
+    padding-left: 30px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 0 0 110px 0;
+    font-size: 14px;
+    color: #555555;
+}
