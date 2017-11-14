@@ -51,6 +51,10 @@ nav {
     font-size: 14px;
 }
 
+.menu a:hover {
+color: #fed136;
+}
+
 .titles_first {
     font-size: 40px;
     color: #fff;
@@ -81,6 +85,11 @@ h1 {
     font-size: 18px;
     font-weight: bold;
     margin-top: 50px;
+}
+
+.button:hover {
+background: #F18A30;
+color: #FDECCB;
 }
 
 .title {
